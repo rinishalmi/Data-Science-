@@ -1,4 +1,4 @@
-# Data-Science-My learning journey
+# Data-Science-My Learning Journey
 This repository contains a collection of my Data Science assignments, covering a wide range of topics from Python programming and statistics to machine learning and neural networks.
 Content
 
